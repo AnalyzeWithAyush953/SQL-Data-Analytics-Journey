@@ -166,4 +166,4 @@ FROM sales;
 --  Use the qualified sales.* syntax to retrieve all original columns alongside the calculated field.
 
 SELECT ROUND(LOG(1 + ABS(profit / (sales / quantity))), 4) AS log_margin_weight, sales.*
-FROM sales;
+FROM sales; 
