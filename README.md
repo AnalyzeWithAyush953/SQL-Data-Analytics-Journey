@@ -16,4 +16,4 @@ Welcome to my SQL data analytics portfolio. This repository contains my clean co
 * 📁 [Module 02: Built-in Functions](./Module-02-Built-in-Functions/)
   * Data cleaning and transformation using string functions (CONCAT, UPPER/LOWER), handling missing values (NULL handling with COALESCE), and basic date and number calculations.
 
-*(Note: New analytical modules covering aggregations, window functions, and subqueries will be added below as the practice track progresses).*
+*(Note: New analytical modules covering aggregations, window functions, and subqueries will be added below as the practice track progresses).
