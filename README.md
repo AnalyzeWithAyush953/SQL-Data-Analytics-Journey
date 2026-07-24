@@ -15,5 +15,5 @@ Welcome to my SQL data analytics portfolio. This repository contains my clean co
   * Basic data retrieval and row filtering using WHERE, AND/OR logic, range filters (BETWEEN), list scanning (IN), and text pattern matching (LIKE wildcards).
 * 📁 [Module 02: Built-in Functions](./Module-02-Built-in-Functions/)
   * Data cleaning and transformation using string functions (CONCAT, UPPER/LOWER), handling missing values (NULL handling with COALESCE), and basic date and number calculations.
-
-*(Note: New analytical modules covering aggregations, window functions, and subqueries will be added below as the practice track progresses).
+📁 [Module 03: Aggregations & Grouping](./Module-03-Aggregations-and-Grouping/)
+Aggregating transactional records into high-level business summaries using COUNT, SUM, AVG, MIN, MAX, single & multi-column GROUP BY, HAVING vs WHERE filtering, COALESCE aggregations, SUM(CASE WHEN...) conditional pivoting, dynamic CASE WHEN bucketing, and monthly time-series metrics.
