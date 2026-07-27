@@ -17,5 +17,7 @@ Welcome to my SQL data analytics portfolio. This repository contains my clean co
   * Data cleaning and transformation using string functions (CONCAT, UPPER/LOWER), handling missing values (NULL handling with COALESCE), and basic date and number calculations.
 * 📁 [Module 03: Aggregations & Grouping](./Module-03-Aggregations-and-Grouping/)
   * Aggregating transactional records into high-level business summaries using COUNT, SUM, AVG, MIN, MAX, single & multi
-    column GROUP BY, HAVING vs WHERE filtering, COALESCE aggregations, SUM(CASE WHEN...) conditional pivoting, dynamic CASe
+    column GROUP BY, HAVING vs WHERE filtering, COALESCE aggregations, SUM(CASE WHEN...) conditional pivoting, dynamic CASE
     WHEN bucketing, and monthly time-series metrics.
+* 📁 [Module 04: Conditional Logic](./Module-04-Conditional-Logic/)
+  Applying conditional rules, missing value substitutions, and dynamic pivoting using CASE WHEN, COALESCE, and NULLIF.
