@@ -20,4 +20,4 @@ Welcome to my SQL data analytics portfolio. This repository contains my clean co
     column GROUP BY, HAVING vs WHERE filtering, COALESCE aggregations, SUM(CASE WHEN...) conditional pivoting, dynamic CASE
     WHEN bucketing, and monthly time-series metrics.
 * 📁 [Module 04: Conditional Logic](./Module-04-Conditional-Logic/)
-  Applying conditional rules, missing value substitutions, and dynamic pivoting using CASE WHEN, COALESCE, and NULLIF.
+  *Applying conditional rules, missing value substitutions, and dynamic pivoting using CASE WHEN, COALESCE, and NULLIF.
