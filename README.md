@@ -21,3 +21,6 @@ Welcome to my SQL data analytics portfolio. This repository contains my clean co
     WHEN bucketing, and monthly time-series metrics.
 * 📁 [Module 04: Conditional Logic](./Module-04-Conditional-Logic/)
   * Applying conditional rules, missing value substitutions, and dynamic pivoting using CASE WHEN, COALESCE, and NULLIF.
+* 📁 [Module 05: Joins & Set Operations](./Module-05-Joins-and-Set-Operations/)
+  * Multi-table relationship queries using INNER, LEFT, RIGHT, FULL OUTER JOIN emulation, SELF JOIN, Non-EQUI JOIN, CROSS JOIN, and UNION/UNION ALL.
+  * (Includes custom database setup: created a `customers` dimension table, added guest orders in `sales` for orphan key testing, and created non-buying customer profiles).
