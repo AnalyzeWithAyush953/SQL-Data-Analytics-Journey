@@ -24,3 +24,5 @@ Welcome to my SQL data analytics portfolio. This repository contains my clean co
 * 📁 [Module 05: Joins & Set Operations](./Module-05-Joins-and-Set-Operations/)
   * Multi-table relationship queries using INNER, LEFT, RIGHT, FULL OUTER JOIN emulation, SELF JOIN, Non-EQUI JOIN, CROSS JOIN, and UNION/UNION ALL.
   * (Includes custom database setup: created a `customers` dimension table, added guest orders in `sales` for orphan key testing, and created non-buying customer profiles).
+* 📁 [Module 06: Subqueries & CTEs](./Module-06-Subqueries-and-CTEs/)
+  * Modular query design covering Scalar Subqueries, Multi-Row IN filters, Correlated EXISTS subqueries, Derived Tables, Chained CTEs (`WITH` clause), subquery refactoring, and Recursive CTEs (`WITH RECURSIVE`).
