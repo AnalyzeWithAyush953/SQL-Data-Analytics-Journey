@@ -98,4 +98,6 @@ where ( region in ('west','east')) and (segment ='consumer' ) and (profit<0) and
 select * from sales
 where customer_name like '_a_e%';
 -- Q15 (Focus: Data Integrity Filtering): Retrieve all records where Sales is greater than $500, but the Customer Name contains trailing spaces or numerical system errors (represented for this practice as any name containing the number '1' or '2')
+will perform later 
+
 -- Updated script header--
