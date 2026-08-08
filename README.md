@@ -28,3 +28,6 @@ Welcome to my SQL data analytics portfolio. This repository contains my clean co
   * Modular query design covering Scalar Subqueries, Multi-Row IN filters, Correlated EXISTS subqueries, Derived Tables, Chained CTEs (`WITH` clause), subquery refactoring, and Recursive CTEs (`WITH RECURSIVE`).
 * 📁 [Module 07: Window Functions](./Module-07-Window-Functions/)
   * Advanced analytical query design covering `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`, cumulative            running totals, moving/rolling averages (`ROWS BETWEEN`), data deduplication, and customer segmentation using `NTILE()`      & `PERCENT_RANK()`.
+* 📁 [Module 08: Advanced Aggregations](./Module-08-Advanced-Aggregations/Topic-08-Advanced-Aggregations.sql)
+  * Multi-level dimensional rollups using `WITH ROLLUP`, `GROUPING()` binary flags for subtotal labeling, and simulated multi-axis `CUBE` aggregations.
+    
